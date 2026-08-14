@@ -1,2 +1,2 @@
-My name is Chandana. Today is my second class 
- 
+My name is Chandana. Today is my second class, i learned how to use git commands on cmd
+  
