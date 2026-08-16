@@ -1,2 +1,3 @@
-My name is Chandana. Today is my second class, i learned how to use git commands on cmd
+My name is Chandana. Today is my second class, i learned how to use git commands on cmd and how to pull code from git repository to local system
+
   
